@@ -1,0 +1,7 @@
+name: Zaczepki
+main: pl.pikselke.zaczepki.Main
+version: 1.0
+author: Pikselke
+
+commands:
+  poke:
